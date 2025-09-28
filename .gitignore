@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+*.db
+
+# Virtual environments
+venv/
+env/
+finwise_env/
+
+# Streamlit secrets and local env
+.streamlit/secrets.toml
+.env
+
