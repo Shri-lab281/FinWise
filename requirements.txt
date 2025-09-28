@@ -2,7 +2,5 @@ streamlit
 pandas
 numpy
 plotly
-transformers
-torch
-huggingface_hub
 python-dotenv
+google-generativeai
